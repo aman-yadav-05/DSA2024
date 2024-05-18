@@ -1,4 +1,0 @@
-before selection sort:
-12 15 7 54 -5 6 
-after selection sort:
--5 6 7 12 54 15 
